@@ -2,6 +2,10 @@
 
 # with support for 4MB of psRAM
 
+## with I2C master/slave library, too!
+
+https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo/wiki/i2c
+
 <br>
 
 > This repository can be used to build MicroPython for ESP32 boards/modules with **psRAM** as well as for ESP32 boards/modules **without psRAM.**<br><br>
